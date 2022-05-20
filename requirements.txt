@@ -1,0 +1,6 @@
+selenium
+websocket-client
+requests
+pandas
+webdriver_manager
+pathlib

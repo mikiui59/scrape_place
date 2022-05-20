@@ -20,3 +20,6 @@ optional arguments:
   -q QUERY, --query QUERY
                         search query example "Giftshops in USA"
 ```
+
+## License
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)

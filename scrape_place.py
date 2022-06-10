@@ -22,7 +22,7 @@ def css_and_click(code, fail_message = "Css not found"):
             break
         except:
             print(fail_message + ": " + code + "\nretrying...")
-            time.sleep(1)
+            time.sleep(2)
 
 def main(query):
     options=webdriver.ChromeOptions()
